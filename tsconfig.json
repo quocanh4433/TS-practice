@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "outDir": "./js",
+    "target": "ES5",                        
+    "sourceMap": true, // debug được trên file ts
+  }
+}
+
